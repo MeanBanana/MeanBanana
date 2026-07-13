@@ -4,17 +4,17 @@ Final-year Software Development student at Eduvos with a passion for building re
 
 ---
 
-## 🚀 About Me
+## About Me
 
 * Final-year Software Development student
-* 🌱 Currently learning **Spring Boot** and modern Java backend development
+* Currently learning **Spring Boot** and modern Java backend development
 * Interested in Backend Development, Web Development, Mobile Development, and Cloud Computing
 * Always learning new technologies and improving my software engineering skills
 * Open to Graduate Software Developer and Junior Developer opportunities
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Programming Languages
 
@@ -83,7 +83,7 @@ A PHP web application that allows consumers connect with others to stand in queu
 
 ---
 
-### 📌 Spring Boot REST API *(In Progress)*
+### Spring Boot REST API *(In Progress)*
 
 A RESTful API built while learning Spring Boot.
 
@@ -98,7 +98,7 @@ Planned features:
 
 ---
 
-## 📖 Currently Learning
+## Currently Learning
 
 * Spring Boot
 * REST API Development
