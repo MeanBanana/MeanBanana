@@ -39,7 +39,7 @@ Final-year Software Development student at Eduvos with a passion for building re
 ### Databases
 
 * MySQL
-* SQL
+* MongoDB
 
 ### Software Engineering
 
