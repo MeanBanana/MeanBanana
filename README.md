@@ -71,7 +71,7 @@ A Java application for managing students, courses, and enrolments.
 
 ### C2C platform
 
-A PHP web application that allows consumers connect with others to stand in queues for them.
+A PHP web application that allows consumers to connect with others to stand in queues for them.
 
 **Technologies**
 
