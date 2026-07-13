@@ -24,7 +24,7 @@ Final-year Software Development student at Eduvos with a passion for building re
 * SQL
 * HTML5
 * CSS3
-* C++ *(Basic)*
+* C++ *(Basic fundamentals)*
 
 ### Frameworks & Technologies
 
