@@ -135,8 +135,7 @@ I'm interested in opportunities involving:
 ## Connect With Me
 
 * Email: mailto:carel.vonronge@gmail.com
-* LinkedIn: 
-* Portfolio: Coming Soon
+* LinkedIn: www.linkedin.com/in/carel-von-ronge-273b502bb
 
 ---
 
