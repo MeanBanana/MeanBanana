@@ -57,14 +57,12 @@ Final-year Software Development student at Eduvos with a passion for building re
 
 ## Featured Projects
 
-### Student Management System
-
-A Java application for managing students, courses, and enrolments.
+### Inventory Management System
+A Java-based desktop application with a JavaFX GUI for managing inventory. Supports full CRUD operations on products, real-time timestamp tracking (created/updated), duplicate ID prevention, and input validation.
 
 **Technologies**
-
 * Java
-* SQL
+* JavaFX
 * OOP
 
 ---
