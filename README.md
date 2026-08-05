@@ -57,19 +57,56 @@ Final-year Software Development student at Eduvos with a passion for building re
 
 ## Featured Projects
 
-### Inventory Management System
-A Java-based desktop application with a JavaFX GUI for managing inventory. Supports full CRUD operations on products, real-time timestamp tracking (created/updated), duplicate ID prevention, and input validation.
+### Church City Notification System
+Real-time Java EE notification platform for churches using JMS and WebSockets.
+
+A publish/subscribe notification system where Church Leaders can broadcast announcements instantly to all connected Members. Built using Java EE 8 with JMS Topics, Message-Driven Beans (MDB), WebSockets, Servlets, and JSP, demonstrating event-driven architecture and real-time communication.
+
+#### **Key Features**
+
+* Real-time notification delivery using WebSockets
+* JMS publish/subscribe messaging architecture
+* Role-based authentication (Leader & Member)
+* Session-based login
+* Live notification history
+* Java EE enterprise application deployed on GlassFish
 
 **Technologies**
-* Java
-* JavaFX
-* OOP
+
+* Java EE 8
+* JMS WebSockets
+* Servlets
+* JSP
+* CDI
+* Maven
+* GlassFish 5
+
+🔗 https://github.com/MeanBanana/church-city-notification-system
 
 ---
 
 ### C2C platform
 
 A PHP web application that allows consumers to connect with others to stand in queues for them.
+
+### **Key Features**
+
+**User Registration & Login**
+* Secure Authentication
+* Create Queue Jobs
+* Browse Available Jobs
+* Apply for Jobs
+* Accept or Decline Applicants
+* Manage Posted Jobs
+* Real-Time Notifications
+* Review & Rating System
+* Transaction Tracking
+* Responsive Dashboard
+
+**Admin Features**
+* Manage Users
+* Manage Jobs
+* Monitor Platform Activity
 
 **Technologies**
 
@@ -78,6 +115,56 @@ A PHP web application that allows consumers to connect with others to stand in q
 * HTML
 * CSS
 * JavaScript
+
+🔗 https://github.com/MeanBanana/queuestand-c2c
+
+---
+
+### Inventory Management System
+A Java-based desktop application with a JavaFX GUI for managing inventory. Supports full CRUD operations on products, real-time timestamp tracking (created/updated), duplicate ID prevention, and input validation.
+
+## Key Features
+
+### **Add Product**
+Add a new product to the inventory with the following details:
+- **Product ID** - Unique identifier for each product
+- **Product Name** - The name of the product
+- **Quantity** - The number of units in stock
+- **Price** - The cost per unit
+- **Timestamps** - Automatically recorded creation and update times
+
+Duplicate Product IDs are prevented to maintain data integrity.
+
+### **Update Product**
+Modify existing product information:
+- Update the quantity of a product
+- Modify the price of a product
+- Automatic timestamp updates when changes are made
+- Products are searched by Product ID for easy access
+
+### **Delete Product**
+Remove products from the inventory:
+- Delete by Product ID
+- Permanently removes the product from all records
+
+### **Search Product**
+Quickly find products in the inventory:
+- Search by Product ID
+- Displays all product details including timestamps
+- Highlights the found product in the main table view for easy visibility
+
+### **View Products**
+Display all products in the inventory:
+- Interactive table view showing all products
+- Columns include: Product ID, Product Name, Quantity, Price, Created Date/Time, and Last Updated Date/Time
+- Responsive layout that adjusts to window size
+
+**Technologies**
+* Java
+* JavaFX
+* OOP
+
+🔗 https://github.com/MeanBanana/Inventory-Management-System
 
 ---
 
