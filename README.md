@@ -4,6 +4,27 @@ Final-year Software Development student at Eduvos with a passion for building re
 
 ---
 
+## Table of Contents
+
+- [About Me](#about-me)
+- [Technical Skills](#technical-skills)
+  - [Programming Languages](#programming-languages)
+  - [Frameworks & Technologies](#frameworks--technologies)
+  - [Cloud & Operating Systems](#cloud--operating-systems)
+  - [Databases](#databases)
+  - [Software Engineering](#software-engineering)
+- [Featured Projects](#featured-projects)
+  - [Church City Notification System](#church-city-notification-system)
+  - [C2C Platform](#c2c-platform)
+  - [Inventory Management System](#inventory-management-system)
+  - [Spring Boot REST API](#spring-boot-rest-api-in-progress)
+- [Currently Learning](#currently-learning)
+- [Career Interests](#career-interests)
+- [My Goals for 2026](#my-goals-for-2026)
+- [Connect With Me](#connect-with-me)
+
+---
+
 ## About Me
 
 * Final-year Software Development student
