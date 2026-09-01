@@ -78,34 +78,6 @@ Final-year Software Development student at Eduvos with a passion for building re
 
 ## Featured Projects
 
-### Church City Notification System
-Real-time Java EE notification platform for churches using JMS and WebSockets.
-
-A publish/subscribe notification system where Church Leaders can broadcast announcements instantly to all connected Members. Built using Java EE 8 with JMS Topics, Message-Driven Beans (MDB), WebSockets, Servlets, and JSP, demonstrating event-driven architecture and real-time communication.
-
-#### **Key Features**
-
-* Real-time notification delivery using WebSockets
-* JMS publish/subscribe messaging architecture
-* Role-based authentication (Leader & Member)
-* Session-based login
-* Live notification history
-* Java EE enterprise application deployed on GlassFish
-
-**Technologies**
-
-* Java EE 8
-* JMS WebSockets
-* Servlets
-* JSP
-* CDI
-* Maven
-* GlassFish 5
-
-🔗 https://github.com/MeanBanana/church-city-notification-system
-
----
-
 ### C2C platform
 
 A PHP web application that allows consumers to connect with others to stand in queues for them.
@@ -138,6 +110,34 @@ A PHP web application that allows consumers to connect with others to stand in q
 * JavaScript
 
 🔗 https://github.com/MeanBanana/queuestand-c2c
+
+---
+
+### Church City Notification System
+Real-time Java EE notification platform for churches using JMS and WebSockets.
+
+A publish/subscribe notification system where Church Leaders can broadcast announcements instantly to all connected Members. Built using Java EE 8 with JMS Topics, Message-Driven Beans (MDB), WebSockets, Servlets, and JSP, demonstrating event-driven architecture and real-time communication.
+
+#### **Key Features**
+
+* Real-time notification delivery using WebSockets
+* JMS publish/subscribe messaging architecture
+* Role-based authentication (Leader & Member)
+* Session-based login
+* Live notification history
+* Java EE enterprise application deployed on GlassFish
+
+**Technologies**
+
+* Java EE 8
+* JMS WebSockets
+* Servlets
+* JSP
+* CDI
+* Maven
+* GlassFish 5
+
+🔗 https://github.com/MeanBanana/church-city-notification-system
 
 ---
 
